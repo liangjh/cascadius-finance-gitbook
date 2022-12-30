@@ -26,6 +26,8 @@ We would expect junior tranches, which absorb most of the losses of the underlyi
 
 Quantitative models for securitized products typically involve calibrated stochastic processes that simulate expected paths for interest rates and other inputs to produce a scenario paths that involve projected prepayment, default, and losses (recoveries) on the underlying pool of loans.  Each path produces aggregate cash flows for the pool, which then get fed into the securitization vehicle to produce cash flows for each tranche / class according to rules governing the distribution of losses and principal proceeds.  The projections are combined to produce a final expected pricing (spread) for each class in the securitization.
 
+<figure><img src="../.gitbook/assets/Screen Shot 2022-12-30 at 11.59.28 AM.png" alt=""><figcaption><p>Quantitative Modeling of Securitizations (Illustrated Workflow)</p></figcaption></figure>
+
 The industry has evolved to utilize standard scalar and vectored measures to quantify projected credit events at the loan & pool level:  CPR (conditional prepayment rate), CDR (conditional default rate), and CRR (conditional recovery rate).  Loans on the Cascadius platform, like traditional loan pools, can be modeled in the same manner.  Investors and structurers will be able to adapt the same platforms they've already built to price and assess Cascadius platform loans and securitizations.
 
 In the long run, Cascadius will build and make available simple pricing models, aligned with industry quoting practices, in the interest of making these products as accessible as possible to all players - both institutional and retail. &#x20;

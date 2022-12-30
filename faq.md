@@ -23,5 +23,8 @@ Q: What are the biggest risks of using Cascadius as the securitization platform?
 Reading materials on securitization and traditional finance. &#x20;
 
 * [Mortgage Backed Securities (Staff Report)](https://www.newyorkfed.org/medialibrary/media/research/staff\_reports/sr1001.pdf), Federal Reserve Bank of New York, 2022.
-*
+
+
+
+* [Miro Board (Illustrations in this Whitepaper)](https://miro.com/app/board/uXjVP3cPpUM=/)
 

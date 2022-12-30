@@ -18,7 +18,7 @@ Cascadius implements the following features:  &#x20;
 
 The Cascadius platform will be built to run on any EVM-compatible blockchain (Ethereum et al).  Cascadius will also eventually be built on Rust-compatible blockchains (Solana, Aptos).
 
-The source code for Cascadius is on [Github](https://github.com/liangjh/cascade-finance) (currently private).
+The source code for Cascadius is on [Github](https://github.com/liangjh/cascadius-finance) (currently private).
 
 ### Follow the Cascadius Team
 
