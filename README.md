@@ -23,4 +23,4 @@ The source code for Cascadius is on [Github](https://github.com/liangjh/cascadiu
 ### Follow the Cascadius Team
 
 * Website:  [cascadius.finance](https://cascadius.finance)
-* Twitter:   [@cascadiusfinance](https://twitter.com/cascadiusfinance)
+* Twitter:   [@cascadiusfn](https://twitter.com/cascadiusfn)
