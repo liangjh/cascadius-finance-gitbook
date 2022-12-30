@@ -30,4 +30,3 @@
 ***
 
 * [FAQ](faq.md)
-* [Scratch](scratch.md)
