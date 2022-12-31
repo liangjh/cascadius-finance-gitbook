@@ -13,7 +13,7 @@ The main high-level system components for Cascadius are below.  The decentralize
 * Historic information / payments & transactions are stored outside of the smart contract.  The precise indexing technology / platform is still under consideration, but we believe a platform such as [The Graph](https://thegraph.com/en/) will be able to store historic information for all collateral on Cascadius.
 * Smart contracts emit events when state changes or is modified on either the loan or pool / securitization objects; events will be consumed by the indexing nodes, our primary store of historic information.
 * As indexed historical data will be made public, users can query the index nodes for collateral information, build their own reporting, or utilize pre-built reporting from Cascadius.  Reporting may be hosted centrally by Cascadius for faster access.
-* The pricing engine is a long-term goal given the compute-heavy nature of securitized products.  As a result, the pricing service may be a separate, centrally-hosted component of Cascadius.  Details TBD.
+* The pricing engine is a long-term goal given the compute-heavy nature of securitized products models.  As a result, the pricing service may be a separate, centrally-hosted component of Cascadius.  Details TBD.
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-12-25 at 9.27.28 PM.png" alt=""><figcaption><p>Main System Components</p></figcaption></figure>
 
