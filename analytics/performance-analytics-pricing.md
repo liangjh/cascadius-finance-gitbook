@@ -20,9 +20,9 @@ Cascadius will provide interactive reporting at any of the combinations of metri
 
 ### Pricing and Loss / Prepayment Modeling
 
-The projection of loan losses / prepayments on the collateral pool, and the pricing of securitizations under various scenarios can be its own entire system.  Most financial institutions with substantial securitization portfolios have entire departments focused on the development and support of quantitative pricing models.
+Projecting of loan losses / prepayments on the collateral pool and pricing securitizations under various scenarios can be its own entire system.  Most financial institutions with substantial securitization portfolios have entire departments focused on the development and support of quantitative pricing models.
 
-We would expect junior tranches, which absorb most of the losses of the underlying pool, to trade at a discount to the par value of its notional principal.  Senior and mezzanine tranches would trade closer to their par values.  Pricing models help quantify baseline pricing.
+We would expect junior tranches, which absorb most of the losses of the underlying pool, to trade at a discount to the par value of its notional principal.  Senior and mezzanine tranches would trade closer to their par values.  Pricing models help quantify this baseline.
 
 Quantitative models for securitized products typically involve calibrated stochastic processes that simulate expected paths for interest rates and other inputs to produce a scenario paths that involve projected prepayment, default, and losses (recoveries) on the underlying pool of loans.  Each path produces aggregate cash flows for the pool, which then get fed into the securitization vehicle to produce cash flows for each tranche / class according to rules governing the distribution of losses and principal proceeds.  The projections are combined to produce a final expected pricing (spread) for each class in the securitization.
 

@@ -7,7 +7,7 @@ coverY: 0
 
 Efficient capital markets facilitate the flow of capital between investors and borrowers.  The securitization process, which allowed banks to transfer risk off balance sheets and opened investors to participating in the risks and returns of those assets at scale, was a major innovation in the capital markets over the last several decades.  This transfer of risk and capital has facilitated tremendous growth, investment, and asset ownership in society.
 
-Cascadius Finance aims to build a full-stack protocol within the Defi ecosystem and to provide the same securitization mechanism on-chain.  By facilitating the seamless transfer of risk and capital through structures with which traditional financial partners are already well acquainted, we aim to accelerate the onboarding of mainstream retail and institutional players into Defi.
+Cascadius Finance aims to build a full-stack protocol within the DeFi ecosystem and to provide the same securitization mechanism on-chain.  By facilitating the seamless transfer of risk and capital through structures with which traditional financial partners are already well acquainted, we aim to accelerate the onboarding of mainstream retail and institutional players into DeFi.
 
 Cascadius implements the following features:  &#x20;
 

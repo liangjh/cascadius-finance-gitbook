@@ -8,7 +8,7 @@ Loans listed on Cascadius are assumed to have already been underwritten by an is
 
 Listing on Cascadius requires transmitting the main loan terms, some basic indicative information about the borrower, any payment history on the loan, as well as issuer information.
 
-Cascadius Finance \* **creates a proxy** by which any loan (real / traditional, or on Defi) with a regular repayment schedule can be exposed on the blockchain by a creditor or servicing entity.   Note that the original loan (as well as the servicing or management of any collateral) is not handled by Cascadius. &#x20;
+Cascadius Finance \* **creates a proxy** by which any loan (real / traditional, or on DeFi) with a regular repayment schedule can be exposed on the blockchain by a creditor or servicing entity.   Note that the original loan (as well as the servicing or management of any collateral) is not handled by Cascadius. &#x20;
 
 ### Loans as ERC-721 / ERC-1155 Tokens
 

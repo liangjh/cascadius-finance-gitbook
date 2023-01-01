@@ -4,9 +4,9 @@ description: Questions about Cascadius Finance
 
 # FAQ
 
-**Q: Is the Defi market ready for securitization?**
+**Q: Is the DeFi market ready for securitization?**
 
-Defi is a new and developing field;  lending and loans on Defi are even more nascent.  Our goal is to build the mechanisms to facilitate a (relatively) seamless onramp for traditional financial counterparties.  Making it easy to onboard and finding the right partners would allow for an easy transition.
+DeFi is a new and developing field;  lending and loans on DeFi are even more nascent.  Our goal is to build the mechanisms to facilitate a (relatively) seamless onramp for traditional financial counterparties.  Making it easy to onboard and finding the right partners would allow for an easy transition.
 
 
 
@@ -25,7 +25,7 @@ Cascadius (at least initially) will not enforce any specific restrictions on the
 
 
 
-**Q: What would regulators such as the SEC say about securitizations on Defi and Cascadius in particular?**&#x20;
+**Q: What would regulators such as the SEC say about securitizations on DeFi and Cascadius in particular?**&#x20;
 
 At this moment we have not yet engaged with any government entities.  An appropriate legal strategy is still a work in progress;  as the initial version of the product is built, we will engage with both lenders as well as structurers to refine the platform and concurrently engage with regulatory bodies.
 
@@ -33,7 +33,7 @@ At this moment we have not yet engaged with any government entities.  An appropr
 
 **Q: What are the biggest risks of using Cascadius as the securitization platform?** &#x20;
 
-This is a new and developing space (Defi). We will do our best to enumerate the capabilities of the platform to prevent misunderstand / misuse. &#x20;
+This is a new and developing space (DeFi). We will do our best to enumerate the capabilities of the platform to prevent misunderstand / misuse. &#x20;
 
 
 
