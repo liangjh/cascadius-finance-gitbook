@@ -1,5 +1,6 @@
 ---
 description: Introducing a Full-Stack Decentralized Loan Securitization Protocol
+cover: .gitbook/assets/cascadius-logo.png
 coverY: 0
 ---
 
