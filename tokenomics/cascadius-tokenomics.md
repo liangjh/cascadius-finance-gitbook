@@ -8,3 +8,7 @@ description: 'Cascadius Tokens: Financing and Platform Governance'
 
 * Governance
 * Financing / Funding
+* Distribution Policy (Monetary Policy)
+* Incentives
+* Earn / Yield for participants (?)
+* Specificallly for DeFi Protocols (\*)
