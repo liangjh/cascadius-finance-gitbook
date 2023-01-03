@@ -10,9 +10,9 @@ Listing on Cascadius requires transmitting the main loan terms, some basic indic
 
 Cascadius Finance \* **creates a proxy** by which any loan (real / traditional, or on DeFi) with a regular repayment schedule can be exposed on the blockchain by a creditor or servicing entity.   Note that the original loan (as well as the servicing or management of any collateral) is not handled by Cascadius. &#x20;
 
-### Loans as ERC-721 / ERC-1155 Tokens
+### Loans as ERC-721 Tokens
 
-Cascadius will effectively mint an ERC-721 / ERC-1155 compatible token for each loan exposed on the platform, which will each serve as a proxy for the loan.
+Cascadius will effectively mint an ERC-721 compatible token for each loan exposed on the platform, which will each serve as a proxy for the loan.
 
 By listing a loan on the Cascadius platform, a creditor / servicer allows the loan's proceeds to be purchased by a structuring entity, and subsequently packaged into a securitization.
 
