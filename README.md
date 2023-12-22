@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# About Cascadius | Securitized RWAs
+# Cascadius | Securitized RWAs
 
 Efficient capital markets facilitate the flow of capital between investors and borrowers.  The securitization process, which allowed banks to transfer risk off balance sheets and enabled investors to participate in the risks and returns of assets at scale, was a major innovation in the capital markets over the last several decades.  This transfer of risk and capital has facilitated tremendous growth, investment, and ownership in society.
 
@@ -35,5 +35,4 @@ The Cascadius platform will be built to run on any EVM-compatible blockchain. &#
 
 ### Follow the Cascadius Team
 
-* Website:  [cascadius.finance](https://cascadius.finance)
 * Twitter:   [@cascadiusfn](https://twitter.com/cascadiusfn)
