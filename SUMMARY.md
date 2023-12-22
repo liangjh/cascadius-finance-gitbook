@@ -1,12 +1,12 @@
 # Table of contents
 
-* [About Cascadius](README.md)
+* [About Cascadius | Securitized RWAs](README.md)
 * [Securitization In Brief](securitization-in-brief.md)
 
 ## LOAN ONBOARDING
 
 * [Loan Tokenization](loan-onboarding/loan-tokenization.md)
-* [Loan Universe](loan-onboarding/loan-universe.md)
+* [Asset Universe](loan-onboarding/asset-universe.md)
 
 ## SECURITIZATION
 

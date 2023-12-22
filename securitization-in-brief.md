@@ -32,9 +32,9 @@ Traditional securitized finance had evolved significantly in the last several de
 
 ### Cascadius Finance
 
-Cascadius provides the scaffolding to facilitate securitizations on EVM-compatible (and Rust-compatible) blockchains, creating a verifiable and transparent marketplace for the transmission of risk and capital financing.   Our goal is to start with the essentials to achieve securitization, and expand to an increasing set of use cases.  The base set needed in Cascadius include the following:
+Cascadius provides the scaffolding to facilitate securitizations on EVM-compatible blockchains, creating a verifiable and transparent marketplace for the transmission of risk and capital financing.   Our goal is to start with the essentials to achieve securitization, and expand to an increasing set of use cases.  The base set needed in Cascadius include the following:
 
-* The proxy tokenization of loans
+* The proxy tokenization of loans and lending products
 * A framework to create and manage securitized vehicles on the blockchain
 * A marketplace for investors to transact on securitizations&#x20;
 * Flow of proceeds and losses between counterparties

@@ -1,25 +1,23 @@
 ---
-description: Introducing a Full-Stack Decentralized Loan Securitization Protocol
+description: A Full-Stack Decentralized RWA (Real World Asset) Securitization Protocol
 cover: .gitbook/assets/cascadius-logo.png
 coverY: 0
 ---
 
-# About Cascadius
+# About Cascadius | Securitized RWAs
 
 Efficient capital markets facilitate the flow of capital between investors and borrowers.  The securitization process, which allowed banks to transfer risk off balance sheets and enabled investors to participate in the risks and returns of assets at scale, was a major innovation in the capital markets over the last several decades.  This transfer of risk and capital has facilitated tremendous growth, investment, and ownership in society.
 
-Cascadius Finance aims to build a full-stack securitization protocol and mechanism on-chain, within the DeFi ecosystem.  By facilitating the seamless transfer of risk and capital through structures with which traditional investors are already well acquainted, we aim to accelerate the onboarding of mainstream retail and institutional players into DeFi.
+Cascadius Finance aims to build a full-stack securitization protocol and mechanism on-chain.  By facilitating the seamless transfer of risk and capital through structures already familiar to traditional institutional investors, we aim to accelerate the onboarding of mainstream investors into DeFi.
 
-Cascadius implements the following features:  &#x20;
+Cascadius aims to implement the following:  &#x20;
 
-* Proxied Loans: tokenized proxies for real (or virtual) assets on EVM-compatible blockchains as ERC-721 compatible tokens with common attributes.
-* Loan Universe / Marketplace: a publicly searchable catalog of loan assets on the platform (both existing and historic) that are offered to be placed into securitizations.
-* Structuring: allow institutional participants to create pools of loans that can be bundled into securitizations, which will be ERC-20 compatible.  Securitizations can also be tranched to target diverse risk / reward investment preferences via structures similar to TradFi CDOs (i.e. Collateralized Debt Obligations).
-* Analytics: provide issuer and pool-level historic performance analytics.  Provide a pricing toolkit to run cash flow scenarios on securitization structures with standard quantitative inputs utilized widely by TradFi securitized product investors.&#x20;
+* Proxied Loans: tokenized proxies for loans and lending products backed by real assets on EVM-compatible blockchains as ERC-721 compatible tokens with common attributes. &#x20;
+* Asset Universe / Marketplace: a public catalog of assets on the platform (both existing and historic) that are offered to be placed into securitization vehicles.
+* Structuring: mechanisms to allow institutional participants to create pools of loans that can be bundled into securitizations and optionally tranched to target diverse risk preferences, which will be ERC-20 compatible.&#x20;
+* Quantitative Analytics: provide issuer and pool-level historic performance data.  Provide pricing toolkits to democratize cash flow scenarios on securitization structures with standard quantitative inputs utilized widely by TradFi securitized product investors.&#x20;
 
-The Cascadius platform will be built to run on any EVM-compatible blockchain (Ethereum et al).  Cascadius will also eventually be built on Rust-compatible blockchains (Solana, Aptos).
-
-The source code for Cascadius is on [Github](https://github.com/liangjh/cascadius-finance) (currently private).
+The Cascadius platform will be built to run on any EVM-compatible blockchain. &#x20;
 
 ### Follow the Cascadius Team
 

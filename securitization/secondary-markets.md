@@ -4,7 +4,7 @@ description: Trading Cascadius Securitizations
 
 # Secondary Markets
 
-Cascadius is primarily a loan securitization platform, and will not be in a position to make markets on securitizations at this time, in either primary or secondary markets.  It will remain up to the community to trade bilaterally, custodially or through a decentralized medium. &#x20;
+Cascadius provides the means to structure / bundle loans into securitizations, and will not be in a position to facilitate markets on securitizations at this time, in either primary or secondary markets.  It will remain up to market participants to trade bilaterally, custodially or through a decentralized medium. &#x20;
 
 We believe the initial stages of the market will consist primarily of larger investors and structurers (the equivalent of broker-dealers) to make markets in the securitizations that have been assembled.  Given the highly interactive nature of market making (as well as the complexities of pricing securitizations (more on this in the analytics & pricing section)), this model will be restricted to institutional investors who can trade at large volume and over-the-counter / bilateral.
 

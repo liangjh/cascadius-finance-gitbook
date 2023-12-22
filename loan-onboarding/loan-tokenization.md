@@ -40,4 +40,4 @@ Loans may be prepaid, at which point the proceeds are distributed to the securit
 
 
 
-_\*\* Note that in traditional securitizations, large loans can be partitioned across securitizations.   This is the case particularly for large commercial and corporate loans.  We'd like to keep Cascadius as simple as possible and work with the more simple assumption of non-divisibility at this time._
+_\*\* Note that in traditional securitizations, large loans can be partitioned across securitizations.   This is the case particularly for large commercial and corporate loans.  We will keep Cascadius as simple as possible and work with the more simple assumption of non-divisibility at this time._

@@ -17,7 +17,7 @@ DeFi is a new and developing field;  lending and loans on DeFi are even more nas
 * A custom-built pool of loans is illiquid.  There is no market or counterparties to offload exposure in the pool.  Even if there were interested counterparties, each trade would have to be negotiated idiosyncratically and a portion of the pool transferred in a highly manual process.    &#x20;
 * A custom pool would not allow for the creation of diverse risk / reward profiles.   Securitization makes tranching a logical (and relatively simple) next step, and can cater to a larger pool of participants, both institutional and retail.
 
-****
+
 
 **Q: How can you guarantee the security of the loan asset on Cascadius?  What about PII (personal identifiable information)?**
 
@@ -29,7 +29,7 @@ Cascadius (at least initially) will not enforce any specific restrictions on the
 
 At this moment we have not yet engaged with any government entities.  An appropriate legal strategy is still a work in progress;  as the initial version of the product is built, we will engage with both lenders as well as structurers to refine the platform and concurrently engage with regulatory bodies.
 
-****
+
 
 **Q: What are the biggest risks of using Cascadius as the securitization platform?** &#x20;
 
