@@ -1,7 +1,21 @@
 ---
 description: A Full-Stack Decentralized RWA (Real World Asset) Securitization Protocol
-cover: .gitbook/assets/cascadius-logo.png
+cover: .gitbook/assets/cascadius-splash.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # About Cascadius | Securitized RWAs
