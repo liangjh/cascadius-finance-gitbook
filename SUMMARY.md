@@ -3,10 +3,10 @@
 * [Cascadius | Securitized RWAs](README.md)
 * [Securitization In Brief](securitization-in-brief.md)
 
-## LOAN ONBOARDING
+## ASSET ONBOARDING
 
-* [Loan Tokenization](loan-onboarding/loan-tokenization.md)
-* [Asset Universe](loan-onboarding/asset-universe.md)
+* [Loan Tokenization](asset-onboarding/loan-tokenization.md)
+* [Asset Universe](asset-onboarding/asset-universe.md)
 
 ## SECURITIZATION
 
