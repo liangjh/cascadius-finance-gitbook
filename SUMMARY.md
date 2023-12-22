@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About Cascadius | Securitized RWAs](README.md)
+* [Cascadius | Securitized RWAs](README.md)
 * [Securitization In Brief](securitization-in-brief.md)
 
 ## LOAN ONBOARDING
