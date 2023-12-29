@@ -21,13 +21,7 @@ DeFi is a new and developing field;  lending and loans on DeFi are even more nas
 
 **Q: How can you guarantee the security of the loan asset on Cascadius?  What about PII (personal identifiable information)?**
 
-Cascadius (at least initially) will not enforce any specific restrictions on the meta-data and indicative data that is send to the platform.  Note that the loan entry hosted on Cascadius is not the actual legal loan, but an ERC-721 compatible \* **proxy** to the proceeds produced by the loan.  There should be sufficient information to allow marketplace participants to assess and transact, but should not contain any PII.
-
-
-
-**Q: What would regulators such as the SEC say about securitizations on DeFi and Cascadius in particular?**&#x20;
-
-At this moment we have not yet engaged with any government entities.  An appropriate legal strategy is still a work in progress;  as the initial version of the product is built, we will engage with both lenders as well as structurers to refine the platform and concurrently engage with regulatory bodies.
+Cascadius (at least initially) will not enforce any specific restrictions on the meta-data and indicative data sent to the platform.  Note that the loan entry hosted on Cascadius is not the actual legal loan, but an ERC-721 compatible \* **proxy** to the proceeds produced by the loan.  There should be sufficient information to allow marketplace participants to assess and transact, but should not contain any PII.
 
 
 
@@ -36,9 +30,4 @@ At this moment we have not yet engaged with any government entities.  An appropr
 This is a new and developing space (DeFi). We will do our best to enumerate the capabilities of the platform to prevent misunderstand / misuse. &#x20;
 
 
-
-### References / Resources (WIP)
-
-* [Mortgage Backed Securities (Staff Report)](https://www.newyorkfed.org/medialibrary/media/research/staff\_reports/sr1001.pdf), Federal Reserve Bank of New York, 2022.
-* [Miro Board (Illustrations used in this whitepaper)](https://miro.com/app/board/uXjVP3cPpUM=/)
 

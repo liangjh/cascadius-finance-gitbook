@@ -26,4 +26,4 @@ Cascadius may also consider creating automated securitizations in the future whe
 
 Loans involve significant amounts information: indicative meta data, credit information, borrower and issuer information and payment histories.  While the smart contracts will store the most basic and up-to-date information on each loan, Cascadius will rely upon compatible decentralized storage and search frameworks.  This feature-rich historical and indicative information will be stored separately from the loan entity and registry on blockchain. &#x20;
 
-We intend to utilize indexing / subgraph solutions to store indicative and transaction histories on listed loans, which can then be utilized as the backing datasource to build oracles to power the loan universe / search capabilities.  We'll expand on this in the service architecture.
+Indexing and subgraph solutions can be utilized to store indicative and transaction histories on listed loans, which will power the loan universe / search and analytics capabilities.  We'll expand on this in the service architecture.
